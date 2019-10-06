@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+canvas {
+    /* 阻止屏幕滚动，canvas默认display为inline */
+    display: block;
+}
